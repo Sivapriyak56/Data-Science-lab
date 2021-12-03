@@ -8,4 +8,4 @@ print("  ")
 
 print("addition =",np.add(ar,arr))
 print("multiplication =",np.multiply(ar,arr))
-print("substraction =",np.subtract(ar,arr))
+print("subtraction =",np.subtract(ar,arr))
