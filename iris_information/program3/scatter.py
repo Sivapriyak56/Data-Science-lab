@@ -1,8 +1,0 @@
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-
-data = pd.read_csv("iris_csv.csv")
-data.plot(kind ="scatter", x='sepallength', y='petallength')
-plt.grid()
-plt.show()
